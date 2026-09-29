@@ -9,6 +9,6 @@ public class Moto : Veiculo
     
     public override void Acelerar()
     { 
-        Console.WriteLine($"{Modelo}  acelerou e cortou giro!");
+        Console.WriteLine($"{Modelo} acelerou e cortou giro!");
     }
 }
